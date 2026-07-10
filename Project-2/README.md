@@ -282,7 +282,7 @@ The project contains:
 
 # 👩‍💻 Author
 
-**Prensi Saxena**
+**Prensi**
 
 BCA Student
 
