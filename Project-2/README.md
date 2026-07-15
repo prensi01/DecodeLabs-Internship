@@ -1,4 +1,6 @@
-# Project-2: E-Commerce Sales Data Analysis using Excel (EDA)
+# DecodeLabs-Internship
+
+## Project 1 - E-Commerce Sales Data Analysis using Excel (EDA)
 
 ## 📌 Project Overview
 
