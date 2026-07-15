@@ -96,13 +96,6 @@ The following analysis was performed:
 
 ---
 
-## 📸 Project Screenshots
-
-All SQL query execution screenshots and results are added in the Screenshots folder.
-
----
-
----
 
 ## 👩‍💻 Author
 
