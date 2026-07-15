@@ -1,6 +1,7 @@
-# 📊 DecodeLabs Internship - Project 3
 
-## SQL Data Analysis Project
+# DecodeLabs Internship
+
+## Project - 3 SQL Data Analysis Project
 
 ## 📌 Project Overview
 
